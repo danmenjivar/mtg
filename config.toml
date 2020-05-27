@@ -1,8 +1,8 @@
-baseurl = "www.moralestgardening.com"
+baseurl = ""
 languageCode = "en-us"
 title = "Morales Tree Gardening"
 theme = "hugo-creative-theme"
-googleAnalytics = "UA-9861162-1"
+googleAnalytics = ""
 
 [params]
 
